@@ -1,0 +1,689 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0500236,
+          42.3375757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xabbb83ba1b07e1ad",
+        "Location": {
+          "Address": "47 E Adams Ave St, Detroit, MI 48226, United States",
+          "Business Name": "Tin Roof Detroit",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3375757",
+            "Longitude": "-83.0500236"
+          }
+        },
+        "Published": "2020-07-24T20:44:18.601168Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0070037,
+          42.6248359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa2af5aa0d9fa0e",
+        "Location": {
+          "Address": "44700 Delco Blvd, Sterling Heights, MI 48313, United States",
+          "Business Name": "Briarwood Family Dental",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.6248359",
+            "Longitude": "-83.0070037"
+          }
+        },
+        "Published": "2020-03-03T12:49:02.054209Z",
+        "Review Comment": "Everyone is super friendly and knowledgeable.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.9909775,
+          42.6192597
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x95053a737493df8a",
+        "Location": {
+          "Address": "44200 Schoenherr Rd, Sterling Heights, MI 48313, United States",
+          "Business Name": "Kohl's",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.6192597",
+            "Longitude": "-82.9909775"
+          }
+        },
+        "Published": "2019-10-02T21:52:14.588069Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.1057552,
+          42.5262289
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x548a28e67d007833",
+        "Location": {
+          "Address": "31642 John R Rd, Madison Heights, MI 48071, United States",
+          "Business Name": "Tienda Mexicana",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.5262289",
+            "Longitude": "-83.1057552"
+          }
+        },
+        "Published": "2019-09-26T15:47:52.197910Z",
+        "Review Comment": "Get a lot of bang for your buck, the chicken quesadillas and burritos are awesome",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -124.5085230,
+          -8.7831950
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8eff14a070876cbc",
+        "Location": {
+          "Business Name": "Pacific Ocean",
+          "Geo Coordinates": {
+            "Latitude": "-8.7831950",
+            "Longitude": "-124.5085230"
+          }
+        },
+        "Published": "2019-09-25T11:40:58.798314Z",
+        "Review Comment": "Pretty unimpressed, but perhaps that's because I visited the Atlantic first, which was a better and wetter overall experience.",
+        "Star Rating": 1
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0866667,
+          42.5066667
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd4a5fec0082c5fe6",
+        "Location": {
+          "Address": "29083 Dequindre Rd, Madison Heights, MI 48071, United States",
+          "Business Name": "Little Saigon",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.5066667",
+            "Longitude": "-83.0866667"
+          }
+        },
+        "Published": "2019-09-13T18:08:13.786778Z",
+        "Review Comment": "The chicken was so legit, I hope it never quits. Seriously could order any one of their 30+ or so dishes and I'd probably like every one! 😄",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0115890,
+          42.6291160
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9e7c5ec6a6c3d061",
+        "Location": {
+          "Address": "45411 Park Ave, Utica, MI 48315, United States",
+          "Business Name": "Red Ox Social",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.6291160",
+            "Longitude": "-83.0115890"
+          }
+        },
+        "Published": "2019-09-13T02:52:55.840421Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.5517926,
+          42.8677395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd0f8af197a86522e",
+        "Location": {
+          "Address": "1299 Wadhams Rd, St Clair, MI 48079, United States",
+          "Business Name": "St Clair RV Resort",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.8677395",
+            "Longitude": "-82.5517926"
+          }
+        },
+        "Published": "2019-09-02T04:59:14.639603Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6308927,
+          41.8902518
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2b33c2a892683c7f",
+        "Location": {
+          "Address": "435 N Clark St, Chicago, IL 60654, United States",
+          "Business Name": "Bub City",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.8902518",
+            "Longitude": "-87.6308927"
+          }
+        },
+        "Published": "2019-08-03T18:00:50.532557Z",
+        "Review Comment": "This is my favorite mac and cheese I've ever had. If I knew how to make it, I'm not sure I'd ever eat anything else. It's probably best it stays a mystery.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.1333430,
+          42.4596350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe896b649502a2eb9",
+        "Location": {
+          "Address": "22646 Woodward Ave, Ferndale, MI 48220, United States",
+          "Business Name": "Woodward Avenue Brewers",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.4596350",
+            "Longitude": "-83.1333430"
+          }
+        },
+        "Published": "2019-03-31T17:22:32.138308Z",
+        "Review Comment": "Their cheese bread is super dope. If I could run it intravenously I would",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.6514210,
+          44.9759500
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4bb68dbb7f408a5d",
+        "Location": {
+          "Address": "201 N St Joseph St, Suttons Bay, MI 49682, United States",
+          "Business Name": "V.I. Grill",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "44.9759500",
+            "Longitude": "-85.6514210"
+          }
+        },
+        "Published": "2019-02-17T03:47:15.011422Z",
+        "Review Comment": "That quesadillas was pretty killa",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.3440568,
+          42.6054826
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbd06ea56962c6eb9",
+        "Location": {
+          "Address": "3011 Orchard Lake Rd, Keego Harbor, MI 48320, United States",
+          "Business Name": "Mary Donnelly's Public House",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.6054826",
+            "Longitude": "-83.3440568"
+          }
+        },
+        "Published": "2019-02-12T16:43:53.986546Z",
+        "Review Comment": "A small Pub with a very pleasant staff",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.1475740,
+          42.4873250
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xca19c77df78fd471",
+        "Location": {
+          "Address": "326 W 4th St, Royal Oak, MI 48067, United States",
+          "Business Name": "Ronin Sushi",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.4873250",
+            "Longitude": "-83.1475740"
+          }
+        },
+        "Published": "2019-01-18T16:01:07.958782Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0935360,
+          42.3213890
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb8e6c5009c3b4cc9",
+        "Location": {
+          "Address": "4114 W, 4114 Vernor Hwy, Detroit, MI 48209, United States",
+          "Business Name": "El Club",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.3213890",
+            "Longitude": "-83.0935360"
+          }
+        },
+        "Published": "2019-01-18T02:58:54.835300Z",
+        "Review Comment": "The non-gender unisex bathrooms house a lovely aroma, reminiscent of a meticulously crafted Halloween mask. The water receptacles are adorned with googly eyes, but the Photobooth is busted garbage.\n\nThey book amazing talent like Louis Cole tho.",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.9926168,
+          42.6290738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x32448ce56010e939",
+        "Location": {
+          "Address": "13997 Hall Rd, Shelby Twp, MI 48315, United States",
+          "Business Name": "Volcano Sushi",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.6290738",
+            "Longitude": "-82.9926168"
+          }
+        },
+        "Published": "2019-01-13T01:59:14.479697Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0590200,
+          42.6234751
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2c19a6fbedda31aa",
+        "Location": {
+          "Address": "44887 Mound Rd, Sterling Heights, MI 48314, United States",
+          "Business Name": "Texas Roadhouse",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.6234751",
+            "Longitude": "-83.0590200"
+          }
+        },
+        "Published": "2019-01-06T05:19:15.686208Z",
+        "Star Rating": 4
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.9520462,
+          42.6007616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe6d014deeb30fd5d",
+        "Location": {
+          "Address": "41350 Garfield Rd, Clinton Twp, MI 48038, United States",
+          "Business Name": "Snappy Oil & Lube",
+          "Geo Coordinates": {
+            "Latitude": "42.6007616",
+            "Longitude": "-82.9520462"
+          }
+        },
+        "Published": "2019-01-03T05:00:31.352771Z",
+        "Review Comment": "Rick always does great work!",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -76.6645423,
+          40.3803267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd0089fd40216b93d",
+        "Location": {
+          "Address": "604 Station Rd, Grantville, PA 17028, United States",
+          "Business Name": "Holiday Inn Harrisburg (Hershey Area) I-81, an IHG Hotel",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.3803267",
+            "Longitude": "-76.6645423"
+          }
+        },
+        "Published": "2019-01-03T04:59:49.439146Z",
+        "Review Comment": "The saloon is great for line dancing! Great chicken quesadilla too!",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.1285000,
+          42.5626556
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x28d3ae9d1dac6bb5",
+        "Location": {
+          "Address": "2950 Rochester Rd, Troy, MI 48083, United States",
+          "Business Name": "Gran Castor",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.5626556",
+            "Longitude": "-83.1285000"
+          }
+        },
+        "Published": "2019-01-03T04:59:09.061612Z",
+        "Review Comment": "The Union mac and cheese and queso dip are superb! Also the Elute pizza with Brisket is possibly the best pizza combo I've ever had",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0907561,
+          42.5654231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xef91cef7f326d6d",
+        "Location": {
+          "Address": "2947 E Big Beaver Rd, Troy, MI 48083, United States",
+          "Business Name": "Dae Jang Keum",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.5654231",
+            "Longitude": "-83.0907561"
+          }
+        },
+        "Published": "2019-01-03T04:58:12.513173Z",
+        "Review Comment": "Korean BBQ is lit, love the tofu and kimchi sides. Making lettuce tacos paired with the meat is the way to go!",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.2957549,
+          42.7024859
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xef56e66b0508f3be",
+        "Location": {
+          "Address": "4382 Baldwin Rd #625, Auburn Hills, MI 48326, United States",
+          "Business Name": "Miyako Japanese Steak & Seafood",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.7024859",
+            "Longitude": "-83.2957549"
+          }
+        },
+        "Published": "2019-01-03T04:56:27.509672Z",
+        "Review Comment": "Philidelphia and Deep Fried Lobster Rolls are happening! Salad with peanut butter-like sauce is delish! Also, their birthday wish ceremony is quite fun 😊",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0264473,
+          42.5627301
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6093a70edcd436c4",
+        "Location": {
+          "Address": "36600 Van Dyke Ave, Sterling Heights, MI 48312, United States",
+          "Business Name": "Meijer",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.5627301",
+            "Longitude": "-83.0264473"
+          }
+        },
+        "Published": "2018-12-23T04:44:59.963323Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.3384196,
+          42.5284616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xada0b3a00c0e62c0",
+        "Location": {
+          "Address": "29275 W 14 Mile Rd, Farmington Hills, MI 48334, United States",
+          "Business Name": "Tomatoes APizza (14 Mile Rd)",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.5284616",
+            "Longitude": "-83.3384196"
+          }
+        },
+        "Published": "2018-12-21T13:20:18.486319Z",
+        "Review Comment": "That green pizza + Nutella calzone tho 😍",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -79.5659794,
+          40.2061915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xce1550f6f525dc82",
+        "Location": {
+          "Address": "Pennsylvania Turnpike West, Milepost 77.6, 724 New Stanton Plaza Road, Hunker, PA 15639, United States",
+          "Business Name": "New Stanton Travel Plaza",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "40.2061915",
+            "Longitude": "-79.5659794"
+          }
+        },
+        "Published": "2018-12-09T19:22:17.113727Z",
+        "Star Rating": 3
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -85.6074886,
+          45.0175939
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xff745ce8fefaa67b",
+        "Location": {
+          "Address": "2521 N West Bay Shore Dr, Peshawbestown, MI 49682, United States",
+          "Business Name": "Leelanau Sands Casino & Lodge",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "45.0175939",
+            "Longitude": "-85.6074886"
+          }
+        },
+        "Published": "2018-11-11T01:37:19.181666Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.0272993,
+          42.5017783
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xff038c5d35201cb9",
+        "Location": {
+          "Address": "28400 Van Dyke Ave, Warren, MI 48093, United States",
+          "Business Name": "Galeana's Van Dyke Dodge Ram",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "42.5017783",
+            "Longitude": "-83.0272993"
+          }
+        },
+        "Published": "2018-10-31T22:12:26.810323Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -83.5450199,
+          41.6206493
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6f76a87e56282158",
+        "Location": {
+          "Address": "1968 Miami St, Toledo, OH 43605, United States",
+          "Business Name": "Hollywood Casino Toledo",
+          "Country Code": "US",
+          "Geo Coordinates": {
+            "Latitude": "41.6206493",
+            "Longitude": "-83.5450199"
+          }
+        },
+        "Published": "2018-07-09T19:37:21.371Z",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -82.9910401,
+          42.6111142
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "Google Maps URL": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4aed301d7c5b473b",
+        "Location": {
+          "Address": "13713 19 Mile Rd, Sterling Heights, MI 48313, United States",
+          "Business Name": "Byblos Dry Cleaners",
+          "Geo Coordinates": {
+            "Latitude": "42.6111142",
+            "Longitude": "-82.9910401"
+          }
+        },
+        "Published": "2017-11-08T21:08:52.364Z",
+        "Review Comment": "Always have had great service and turnaround time here!",
+        "Star Rating": 5
+      },
+      "type": "Feature"
+    }
+  ]
+}
